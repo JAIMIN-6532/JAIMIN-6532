@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jaimin Rathod</h1>
 <h3 align="center">Web & App Developer | MERN Stack | Java & Spring Boot</h3>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250"/>
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" height="250"/>
+</p>
 
 ---
 
@@ -29,13 +30,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JAIMIN-6532&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAIMIN-6532&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAIMIN-6532&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIMIN-6532&layout=compact&theme=tokyonight" alt="Top Languages" width="35%" />
 </p>
 
+
+
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIMIN-6532&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </p>
 
 ---

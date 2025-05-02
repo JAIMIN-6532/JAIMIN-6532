@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JAIMIN-6532&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAIMIN-6532&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=JAIMIN-6532&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%" /> -->
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIMIN-6532&layout=compact&theme=tokyonight" alt="Top Languages" width="35%" />
 </p>
